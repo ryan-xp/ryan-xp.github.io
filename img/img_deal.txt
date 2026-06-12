@@ -1,0 +1,1 @@
+convert jks.jpg -quality 80 jks.webp
